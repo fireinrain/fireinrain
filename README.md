@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=fireinrain&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=fireinrain&show_icons=true&count_private=true)
 -->
 <!-- 个人github成就 -->
-[![](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=true&count_private=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=false&count_private=true&theme=onedark)
+[![](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=true&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=false&count_private=true&theme=radical)
 
 <!-- 个人使用语言统计 -->
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&langs_count=6&hide=html,css,Jupyter%20Notebook,C,c%23,kotlin)](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&langs_count=6&layout=compact&hide=html,css,Jupyter%20Notebook,C,c%23,kotlin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&theme=radical)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
