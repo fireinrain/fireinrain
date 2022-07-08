@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span style="color:blue">
 
 <!-- 注释废弃使用 -->
 <!--
@@ -36,4 +35,3 @@ Here are some ideas to get you started:
 <!-- 使用工具图标 -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</span>
