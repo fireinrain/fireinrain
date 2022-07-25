@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=true&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=fireinrain&show_icons=false&count_private=true&theme=radical)
 
 <!-- 个人使用语言统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&langs_count=6&theme=radical&hide=html,css,Roff,swift)](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&langs_count=6&theme=radical&hide=html,css,Roff,swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&langs_count=6&theme=radical&hide=html,css,Roff,swift,php)](https://github-readme-stats.vercel.app/api/top-langs/?username=fireinrain&layout=compact&langs_count=6&theme=radical&hide=html,css,Roff,swift,php)
 
 <!-- 使用工具图标 -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
