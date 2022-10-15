@@ -7,7 +7,6 @@
 - 🌏 Open-source software developer
 - ⚡ Java, Python, Go, Rust, Kotlin, Js...
 
-Please visit [Golang China Contributor Club](https://golangcn.org/) to learn more about our work.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireinrain&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fireinrain&theme=nord_bright)
