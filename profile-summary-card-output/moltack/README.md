@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/fireinrain/fireinrain/master/profile-summary-card-output/moltack/4-productive-time.svg)
+```
+
+    
